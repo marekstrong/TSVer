@@ -1,0 +1,14 @@
+name: tsver-baseline
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11.12
+  - pip
+  - openai=2.6.1
+  - pandas
+  - tqdm
+  - tabulate
+  - nltk
+  - scikit-learn
+  - pyyaml
